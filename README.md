@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VAISH-16
-- 👀 I’m interested in Python, Machine learning, Artificial Intelligence and Data Science.
-- 🌱 I’m currently learning Computer Engineering at Mumbai University
+- 👀 I’m interested in Website Development & Mobile Application Development.
+- 🌱 I’m currently working as a Software Developer.
 - 📫 How to reach me --> salunkhevaishnavi2001@gmail.com
 
 <!---
