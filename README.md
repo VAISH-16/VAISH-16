@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @VAISH-16
-- 👀 I’m interested in Website Development & Mobile Application Development.
-- 🌱 I’m currently working as a Software Developer.
-- 📫 How to reach me --> salunkhevaishnavi2001@gmail.com
+👋 Hello, I'm Vaishnavi Salunkhe
+👀 Passionate about Website and Mobile Application Development.
+🌱 Currently thriving as a Software Developer.
+👩‍💻 Proficient in HTML, CSS, JS, Python, Django, PHP, CodeIgniter, Laravel, and MySQL, driving digital innovation.
+📫 You can reach me at: salunkhevaishnavi2001@gmail.com
 
 <!---
 VAISH-16/VAISH-16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
